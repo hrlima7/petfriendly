@@ -1,0 +1,42 @@
+
+.main01{
+height: 100px;
+
+
+}
+.main02{ 
+margin:30px;
+
+}
+.cards{
+    box-sizing: border-box;
+margin:20px;
+max-height: 200px;
+min-height: 200px;
+min-width: 250px;
+max-width: 250px;
+border-radius: 30px;
+text-align: center;
+}
+.linha1{
+  box-shadow: 10px 10px 10px 10px;
+    background:#E2E1F7;
+}
+.linha2{
+    margin-top: 50px;
+    box-shadow: 10px 10px 10px 10px;
+    background: #E2E1F7;
+}
+.linha3{
+margin-top: 25px;
+font-family: 'Josefin Sans', sans-serif;                                    
+font-family: 'Lobster', cursive;
+font-family: 'Viga', sans-serif;  
+
+}
+.cximc1{
+border:yellow;
+color: black;
+background-color: red;
+
+}

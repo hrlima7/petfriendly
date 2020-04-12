@@ -1,0 +1,29 @@
+
+body,html {
+    height:100%;
+ 	background-color: white;
+  
+}
+
+.caixa{
+margin-top: 40px;
+border: solid 3px black;
+width: 40%;
+height:700px;
+padding-top: 20px;
+box-shadow: blueviolet 10px 10px;
+background-image: linear-gradient(to bottom right, #2E4272,#492E74);  
+color:white;
+min-width:300px;
+min-height: 350px;
+}
+.formulario{
+margin-top: 10px;
+width: 80%;
+text-align: left;
+
+}
+.data{
+margin-top: 10px;
+
+}

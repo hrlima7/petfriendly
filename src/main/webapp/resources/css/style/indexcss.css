@@ -1,0 +1,83 @@
+
+
+.nav{
+   background-color:black 
+   
+}
+
+
+.principal{
+    background-image:url(../../IMAGENS/sau03.jpg);
+    background-size: cover;
+    height: 100%;
+  
+    
+    
+}
+
+.login{
+      height:910px;
+     color:white;
+     background-image: linear-gradient(to bottom right, #2E4272,#492E74) ;
+     height: 100%;
+
+}
+ul{
+ text-decoration: none;
+ float: right;  
+}
+li {
+ display:inline;
+ margin: 20px;
+     
+}
+li a{
+color: white;
+    
+    
+}
+.acesso{
+  position:absolute; 
+  margin-top: 130px;
+  margin-left: auto;
+  left:20%;    
+}
+.logo{
+   margin-top:100px;
+    margin-left: 23%;
+  
+   
+}
+
+
+.botao{
+ margin-left: 40%
+}
+
+.form-control{
+    min-width: 300px;
+    
+    
+}
+.footer{
+    height:50px;
+    background-color:dimgrey;
+    
+    
+}
+
+@media (max-width:900px){
+    .footer{
+      display:none;
+      }
+    .principal{
+        display:none; 
+    }
+  }
+  @media (max-width:900px){
+    .all{
+     height: 100%;
+    
+      }
+  }
+  

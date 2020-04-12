@@ -1,0 +1,64 @@
+
+  
+  html,body{
+  height: 100%;
+
+  }
+  
+.sidebar{
+
+  height:1000px;
+  display: inline-block;
+}
+.logo{
+height: 180px;
+font-size:50px;
+text-align: center;
+color:white;
+
+
+}
+
+
+.imag{
+border-radius: 50%;
+text-justify: center;
+}
+.usuario{
+color:white;
+text-align:center;
+}
+
+.menulateral{
+padding: 15px;
+}
+
+ul{
+list-style-type: none;
+padding-left: 2px;
+
+    
+}
+ul li a{
+text-decoration:none; 
+margin-left:10px;
+font-size: 20px;
+color: white;                                  
+
+}
+
+ul  svg{
+color:violet;
+margin-top:25px;
+margin-left: -5px;
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+
+  .content{
+    background:whitesmoke;
+  }
+
+  .historico{
+  overflow:hidden;
+
+
+  }
